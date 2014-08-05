@@ -12,7 +12,7 @@ setup(
    description = ("A FUSE based filesystem for Media Transfer Protocol (MTP) devices implemented in Python."),
    license = "Apache 2",
    keywords = "FUSE filesystem MTP",
-   url = "http://code.google.com/p/pymtpfs/",
+   url = "https://github.com/donaldmunro/pymtpfs",
    packages = find_packages("src", exclude="tests"),
    install_requires=["fusepy >= 2.0.1", ],
    long_description=read('README'),
