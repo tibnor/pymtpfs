@@ -1,0 +1,7 @@
+pymtpfs is yet another FUSE filesystem for MTP devices.
+It was motivated by the desire to have a more fault
+tolerant file system for use when doing mass transfers
+to and from MTP devices.
+In my case specifically for transferring my ebooks to my
+Nexus 7 using rsync as other solutions often tended to
+hang half way through the transfer.

@@ -1,0 +1,9 @@
+push.sh
+*.pyc
+*~
+*.o
+log/
+logs/
+*.log
+*.egg-info
+
